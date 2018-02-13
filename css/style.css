@@ -7,3 +7,18 @@ header, footer {
 a {
 	color:white;
 }
+
+.post {
+	background-color: white;
+	margin: 2px;
+	padding: 5px;
+}
+nav {
+	background-color: black;
+	height: 40px;
+}
+li {
+	margin: 10px;
+	padding: 10px;
+	float: left;
+}
