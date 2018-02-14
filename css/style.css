@@ -1,9 +1,14 @@
+body {
+	background-image: url("../img/bk-img.jpg");
+	background-repeat: repeat;
+}
 header, footer {
 	text-align: center;
 	background-color: black;
 	padding: 10px;
 	color: white;
 }
+
 a {
 	color:white;
 }
@@ -14,10 +19,16 @@ a {
 	padding: 5px;
 }
 nav {
-	background-color: black;
 	height: 40px;
+	background-color:;
 }
+ul {
+	list-style-type: none;
+}
+
 li {
+	background-color: green;
+	position: relative;
 	margin: 10px;
 	padding: 10px;
 	float: left;
